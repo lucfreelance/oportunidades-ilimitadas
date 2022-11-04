@@ -28,6 +28,23 @@ color: blue;
 border-radius: 2;
 border-color: brown;
 }
+.email-mensaje {
+    padding: 20;
+}
+
+.email-mensaje-1 {
+color: white;
+display: inline;
+}
+
+.email-mensaje-2 {
+    color: white;
+display: inline;
+text-decoration-color: cornflowerblue;
+color: salmon;
+font-size: 30;
+}
+
 .footer {
-    position: bottom;
+    position: buttom;
 }
