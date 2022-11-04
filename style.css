@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    margin: 20;
+	font-family: "Quicksand", sans-serif;
+	background: green;
+}
+.boton {
+    padding-bottom: 30;
+}
+.cover {
+    position: center;
+}
+.portada {
+    width: 400;
+    height: 400;
+}
+.superior {
+    position: center;
+    display: flex;
+	justify-content: space-between;
+	padding: 0 24px;
+	border-bottom: 1px solid --white;
+    text-decoration: none;
+}
+.titulo {
+text-align: center;
+color: blue;
+border-radius: 2;
+border-color: brown;
+}
+.footer {
+    position: bottom;
+}
